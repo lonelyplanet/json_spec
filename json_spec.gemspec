@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.license     = "MIT"
 
   gem.add_dependency "multi_json", "~> 1.0"
-  gem.add_dependency "rspec", ">= 2.0", "< 4.0"
+  gem.add_dependency "rspec", ">= 3.0.0.beta2", "< 4.0"
 
   gem.add_development_dependency "bundler", "~> 1.0"
 
